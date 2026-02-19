@@ -6,6 +6,10 @@ Aplicação web simples para conversão de moedas (USD, EUR e GBP) para Real Bra
 
 O projeto permite informar um valor, selecionar uma moeda e exibir o resultado convertido em reais.
 
+## Demo online
+
+- https://convert-nine-tau.vercel.app
+
 ## Funcionalidades
 
 - Conversão de:
@@ -32,12 +36,6 @@ O projeto permite informar um valor, selecionar uma moeda e exibir o resultado c
 ├── styles.css
 └── img/
 ```
-
-## Como executar
-
-Como é um projeto estático, você pode abrir o arquivo `index.html` diretamente no navegador.
-
-Opcionalmente, para melhor experiência durante o desenvolvimento, use uma extensão como Live Server no VS Code.
 
 ## Regras de conversão atuais
 
